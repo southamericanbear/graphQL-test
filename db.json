@@ -1,0 +1,53 @@
+{
+  "veganCookies": [
+    {
+      "id": "69",
+      "name": "Pepas",
+      "value": 100,
+      "companyId": "2"
+    },
+    {
+      "id": "420",
+      "name": "Alfajor",
+      "value": 50,
+      "companyId": "2"
+    },
+    {
+      "name": "bananitas",
+      "value": 100,
+      "id": "odTWJAz"
+    },
+    {
+      "name": "oreos",
+      "value": 120,
+      "id": "TkbaRE6"
+    },
+    {
+      "name": "veggie snack",
+      "value": 200,
+      "id": "3a7MD5V"
+    },
+    {
+      "name": "bananitas",
+      "value": 100,
+      "id": "ksWFbmg"
+    },
+    {
+      "name": "bananitas",
+      "value": 100,
+      "id": "6Hk5wYd"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "kraft",
+      "country": "USA"
+    },
+    {
+      "id": "2",
+      "name": "Un rincon vegano",
+      "country": "ARG"
+    }
+  ]
+}
